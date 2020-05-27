@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Raghava Resume Template</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" href="../bootstrap/bootstrap.min.css" />
+        <script src="../bootstrap/jquery.min.js"></script>
+        <script src="../bootstrap/popper.min.js"></script>
+        <script src="../bootstrap/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="raghava.css" type="text/css" />
+    </head>
+
+
+    <body>
+
+        <header>
+
+
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Aboout me</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">My polocy</a></li>
+
+            </ul>
+            <div class="hed">
+                <h2 style="font-weight:700;">Raghavendra Tirumalasetti</h2>
+                <p>Mystery is at the heart of creativity.<br>That,and surprise.</p>
+
+            </div>
+
+
+        </header>
+
+
+        <div class="row done" style="padding-top:50px;">
+            <div>
+                <p style="background-color:white; display: inline-block;color:white;margin-right:10px;">hiio00i</p>
+                <h3 style="display: inline-block"> A B O U T</h3>
+                <p style="padding-left:50px;">i am a person with problem solving mindset to solve any problem and make the people life simpler and easier and making value to the organigation and achieveing mindset to lead in the world with high standed of excellence</p>
+            </div>
+
+            <div class="aimg">
+                <img src="use.jpg" width=300px;height:300px>
+            </div>
+            <div class="acon">
+                <h3 style="font-style:bold">Hello world. I am <span style="color:orange" ;> Raghavendra Tirumalasetti</span> <br> Programmer and Web designer</h3>
+                <p style="font-size:15px;">
+                    Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices. Be sure to use an appropriate type attribute on all inputs
+                    (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more. Here’s a quick example to demonstrate Bootstrap’s form styles. Keep
+                    reading for documentation on required classes, form layout, and more.
+                </p>
+            </div>
+        </div>
+
+
+
+
+        <div class="bun" style="padding-top:35px; padding-bottom:35px">
+            <p style="background-color:white; display: inline-block;color:white; padding-top:5px; padding-top:5px;margin-right:10px;">hiio0000i</p>
+            <h2 style="display:inline-block;"> S K I L L S</h2>
+            <div class="row " style="padding-top:20px">
+                <div class="a">
+                    <h4 style="color:orange;">C Programming </h4>
+                    <p>Gray colors are displayed using an equal amount of power to all of the light sources. To make it easy for you to select a gray color we have compiled a table of gray shades for you</p>
+                    <div class="progress" style="width:50%;">
+                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 75%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="0"></div>
+                    </div>
+                    <p style="color:orange; text-align:center;"> 75%</p>
+                </div>
+
+                <div class="b">
+                    <h4 style="color:skyblue;">Web Designing </h4>
+                    <p>Gray colors are displayed using an equal amount of power to all of the light sources. To make it easy for you to select a gray color we have compiled a table of gray shades for you</p>
+                    <div class="progress" style="width:50%;">
+                        <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="0"></div>
+                    </div>
+                    <p style="color:skyblue; text-align:center;"> 50%</p>
+                </div>
+
+                <div class="c">
+                    <h4 style="color:yellow;">HTML </h4>
+                    <p>Gray colors are displayed using an equal amount of power to all of the light sources. To make it easy for you to select a gray color we have compiled a table of gray shades for you</p>
+
+                    <div class="progress" style="width:50%;">
+                        <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="0"></div>
+                    </div>
+                    <p style="color:yellow; text-align:center;"> 75%</p>
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="jam" style="padding-top:35px; padding-bottom:35px;">
+            <p style="background-color:white; display: inline-block;color:white; padding-top:5px; padding-top:5px;margin-right:10px;">hiio00i</p>
+            <h3 style="display:inline-block;"> E D U C A T I O N</h3>
+            <p>Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don’t use element, ensuring you can stack progress bars, animate them, and place text labels over them. We use the .progress as a
+            </p>
+
+            <div class="ab">
+                <img src="school.jpg" width=150px;height:150px style="padding:10px">
+            </div>
+            <p style="color:skyblue;font-weight:500;font-size:25px;">SCHOOL</p>
+
+            <p class="df">Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don’t use element</p>
+
+
+            <div class="bc">
+                <img src="inter.jpeg" width=150px;height:150px style="padding:10px">
+            </div>
+            <p style="color:skyblue;font-weight:500;font-size:25px;">INTERMEDIATE</p>
+
+            <p class="af"> Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don’t use element</p>
+
+
+            <div class="cd">
+                <img src="clg.jpeg" width=150px;height:150px style="padding:10px">
+            </div>
+            <p style="color:skyblue;font-weight:500;font-size:25px;">ENGINEERING</p>
+
+            <p class="df">Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don’t use element</p>
+
+
+            <div class="de">
+                <img src="ib.png" width=150px;height:150px style="padding:10px">
+            </div>
+            <p style="color:skyblue;font-weight:500;font-size:25px;">INTENSIVE TRAINING</p>
+
+            <p class="af">Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don’t use element</p>
+
+        </div>
+
+    </body>
+
+</html>
